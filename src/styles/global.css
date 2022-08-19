@@ -1,0 +1,16 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+body {
+  background-color: #F8F8FF;
+}
+
+.AppContainer {
+  display: flex;
+  flex-direction: column;
+
+  align-items: center;
+}
